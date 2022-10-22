@@ -9,7 +9,6 @@ while run_program == True:
     possible_word_list = []
     not_spot_letters = []
     spot_letters = []
-    word_list = []
 
     Lines = words.readlines()
 
